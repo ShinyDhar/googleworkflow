@@ -1,0 +1,75 @@
+<html>
+   <head>
+      <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+      <style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=jcFLf8ZX0K0voV0Wtl8DV2KGVwp_XycDWxEq9W93aON8u45WU12y72TEk3aAZtZE');.lst-kix_hyyyviv9ofsx-4>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-4}.lst-kix_hyyyviv9ofsx-8>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-8,lower-roman) ". "}ol.lst-kix_hyyyviv9ofsx-1.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-1 0}.lst-kix_hyyyviv9ofsx-7>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-7,lower-latin) ". "}ol.lst-kix_hyyyviv9ofsx-6.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-6 0}.lst-kix_hyyyviv9ofsx-1>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-1}ol.lst-kix_hyyyviv9ofsx-8.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-8 0}.lst-kix_hyyyviv9ofsx-5>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-5,lower-roman) ". "}ol.lst-kix_hyyyviv9ofsx-3.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-3 0}.lst-kix_hyyyviv9ofsx-6>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-6,decimal) ". "}ol.lst-kix_hyyyviv9ofsx-1{list-style-type:none}.lst-kix_hyyyviv9ofsx-0>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-0,decimal) ". "}ol.lst-kix_hyyyviv9ofsx-0{list-style-type:none}.lst-kix_hyyyviv9ofsx-1>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-1,lower-latin) ". "}ol.lst-kix_hyyyviv9ofsx-3{list-style-type:none}ol.lst-kix_hyyyviv9ofsx-4.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-4 0}ol.lst-kix_hyyyviv9ofsx-2{list-style-type:none}.lst-kix_hyyyviv9ofsx-5>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-5}.lst-kix_hyyyviv9ofsx-4>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-4,lower-latin) ". "}.lst-kix_hyyyviv9ofsx-3>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-3,decimal) ". "}.lst-kix_hyyyviv9ofsx-2>li:before{content:"" counter(lst-ctn-kix_hyyyviv9ofsx-2,lower-roman) ". "}.lst-kix_hyyyviv9ofsx-2>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-2}.lst-kix_hyyyviv9ofsx-0>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-0}ol.lst-kix_hyyyviv9ofsx-8{list-style-type:none}ol.lst-kix_hyyyviv9ofsx-2.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-2 0}.lst-kix_hyyyviv9ofsx-8>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-8}ol.lst-kix_hyyyviv9ofsx-5{list-style-type:none}.lst-kix_hyyyviv9ofsx-6>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-6}ol.lst-kix_hyyyviv9ofsx-4{list-style-type:none}.lst-kix_hyyyviv9ofsx-3>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-3}ol.lst-kix_hyyyviv9ofsx-7{list-style-type:none}ol.lst-kix_hyyyviv9ofsx-6{list-style-type:none}ol.lst-kix_hyyyviv9ofsx-7.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-7 0}ol.lst-kix_hyyyviv9ofsx-5.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-5 0}ol.lst-kix_hyyyviv9ofsx-0.start{counter-reset:lst-ctn-kix_hyyyviv9ofsx-0 0}.lst-kix_hyyyviv9ofsx-7>li{counter-increment:lst-ctn-kix_hyyyviv9ofsx-7}ol{margin:0;padding:0}table td,table th{padding:0}.c5{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:112.9pt;border-top-color:#000000;border-bottom-style:solid}.c2{background-color:#ffffff;color:#222222;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"Poppins";font-style:normal}.c3{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c9{border-top-width:0pt;border-top-style:solid;background-color:#ffffff;border-bottom-width:0pt;border-bottom-style:solid}.c15{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-style:normal}.c0{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c16{background-color:#ffffff;font-size:10.5pt;font-family:"Roboto";color:#222222;font-weight:400}.c6{background-color:#ffffff;font-size:10pt;color:#222222;font-weight:700}.c11{background-color:#ffffff;font-size:10pt;color:#222222;font-weight:400}.c12{border-spacing:0;border-collapse:collapse;margin-right:auto}.c7{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c14{background-color:#ffffff;max-width:451.4pt;padding:72pt 72pt 72pt 72pt}.c8{border:1px solid black;margin:5px}.c10{font-family:"Poppins"}.c4{height:11pt}.c13{background-color:#ffe599}.c1{height:0pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style>
+   </head>
+   <body class="c14 doc-content">
+      <p class="c0"><span class="c10 c15">Dear <?=name?>,</span></p>
+      <p class="c0 c4"><span class="c15 c10"></span></p>
+      <p class="c0"><span class="c10 c11">At the outset,we want to thank you for the efforts that you put in your Interview Coaching: One-to-One Session or One to Many Sessions as part of MAC 201.</span></p>
+      <br></br>
+      <p class="c0"><span class="c2">The following is your assessment card generated by compiling your scores as per the performance in the Interview Coaching Round. This will help you identify your areas of improvement and work around them. </span></p>
+      <br></br>
+      <p class="c0"><span class="c2">While reading this assessment card, make sure that you have your recording to understand the shortcomings deeply. Soft skills are hard to learn without your consistent commitment. </span></p>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <p class="c0"><span class="c6 c10">Assessment scale use  :10 Pointer Scale   </span><span class="c2">&nbsp;</span></p>
+      <p class="c0"><span class="c2"> | 1 Poor | 2 Very Weak | 3 Weak | 4 Below Adequate | 5 Adequate | 6 above adequate | 7 Good | 8 V.Good | 9 Excellent | 10 Amazing | </span></p>
+      <br></br>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <p class="c0"><span class="c6 c10">Overall Scores:</span><span class="c2">&nbsp;</span></p>
+      <br></br>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <a id="t.2ad3fb93387c6b865f85ac6f572548be23471286"></a><a id="t.0"></a>
+      <table class="c12">
+         <tr class="c1">
+            <td class="c5 c13" colspan="1" rowspan="1">
+               <p class="c0"><span class="c6 c10">Part A:Preparation and Preparedness</span></p>
+            </td>
+            <td class="c5 c13" colspan="1" rowspan="1">
+               <p class="c0"><span class="c6 c10">Part B : Project Presentation</span></p>
+            </td>
+            <td class="c5 c13" colspan="1" rowspan="1">
+               <p class="c0"><span class="c6 c10">Part C: Concept Explanation</span></p>
+            </td>
+            
+         </tr>
+         <tr class="c1">
+            <td class="c5" colspan="1" rowspan="1">
+               <p class="c7"><span class="c2"><?=partA?></span></p>
+            </td>
+            <td class="c5" colspan="1" rowspan="1">
+               <p class="c7"><span class="c2"><?=partB?></span></p>
+            </td>
+            <td class="c5" colspan="1" rowspan="1">
+               <p class="c7"><span class="c2"><?=partC?></span></p>
+            </td>
+            
+         </tr>
+      </table>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <p class="c0"><span class="c6 c10">Assessor Final Decision on the candidate: </span><span class="c2"><?=final_decision?> </span></p>
+      <p class="c0"><span class="c6 c10">Qualitative Remarks by the Assessor basis the interaction with the candidate: </span><span class="c2"><?=feedback?></span></p>
+      <p class="c0 c4"><span class="c2"></span></p>
+      <p class="c0"><span class="c6 c10">Next Steps ( Important, please read carefully) </p>
+      <br></br>
+      <p class="c0"><span class="c2">1. Our aim is to provide feedback so that you can work on yourself in a more structured manner. Start working on areas of improvement as per the assessment card.  </span></p>
+      <br></br>
+      
+      <p class="c9 c0"><span class="c2">2. Attached comprehensive rubrics 
+      <a href="https://docs.google.com/spreadsheets/d/1tVGQfKCyAHHFu31DcVnBwEaJbXv-kQoVoIsQz5KOOis/edit#gid=1830927914">HERE</a>  and click <a href="https://drive.google.com/file/d/1T3dHEZuV6ekfgm6czWjOrfLF1drbwkyv/view?ts=62f620df">HERE</a> for a short video by Yogesh on how to understand your score.  </span></p>
+      <br></br>
+      
+      <p class="c0"><span class="c2">3. For students who have cleared the Interview Coaching round, do not relax, keep practising so that you will be awesome during the live interview. </span></p>
+      <br></br>
+       <p class="c0"><span class="c2">4. For students who have Not Cleared and have been recommended remedial, daily practice is key to achieving the desired levels of performance.  </span></p>
+      <br></br>
+      
+      <p class="c9 c0 c4"><span class="c2"></span></p>
+      <p class="c9 c0"><span class="c2">All the best !</span></p>
+      <p class="c9 c0 c4"><span class="c2"></span></p>
+      <p class="c9 c0"><span class="c2">With best wishes,</span></p>
+      <p class="c0 c9"><span class="c2">MAC Team at Masai</span></p>
+      
+   </body>
+</html>
